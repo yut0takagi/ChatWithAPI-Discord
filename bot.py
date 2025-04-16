@@ -2,6 +2,7 @@
 import discord
 import openai
 import os
+
 TOKEN = os.environ.get('TOKEN')
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 
